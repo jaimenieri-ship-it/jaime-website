@@ -135,26 +135,23 @@ export default function JaimeNieriWebsite() {
 
             <div className="bg-white p-8 rounded-3xl shadow-sm border border-gray-100">
               <p className="text-gray-700 leading-relaxed mb-6">
-                “Jaime helped me finally understand rhythm and timing.
-                Lessons are structured, motivating, and very practical.”
+                “Jaime helped me finally understand rhythm and timing. I went from struggling to actually playing with confidence.”
               </p>
-              <p className="font-semibold">— Adult Guitar Student</p>
+              <p className="font-semibold">— Randy - Guitar Student</p>
             </div>
 
             <div className="bg-white p-8 rounded-3xl shadow-sm border border-gray-100">
               <p className="text-gray-700 leading-relaxed mb-6">
-                “Very patient and incredibly knowledgeable. I improved more
-                in a few months than I had in years teaching myself.”
+                “Very structured lessons. Everything is explained clearly and I can finally see real progress every week.”
               </p>
-              <p className="font-semibold">— Online Student</p>
+              <p className="font-semibold">— Hannah - Bass Student</p>
             </div>
 
             <div className="bg-white p-8 rounded-3xl shadow-sm border border-gray-100">
               <p className="text-gray-700 leading-relaxed mb-6">
-                “Lessons are focused, encouraging, and adapted to my goals.
-                Highly recommended for adult learners.”
+                “I stopped practicing randomly and now I know exactly what to work on. Huge improvement in my playing.”
               </p>
-              <p className="font-semibold">— Intermediate Guitar Player</p>
+              <p className="font-semibold">— Tom - Guitar Student and Music Theory</p>
             </div>
 
           </div>
