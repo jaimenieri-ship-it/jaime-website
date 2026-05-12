@@ -3,7 +3,7 @@ export default function Home() {
     <main style={{ padding: 40 }}>
       <h1>Mi página</h1>
 
-      <img src="/jaime.png" alt="Jaime" style={{ width: 300 }} />
+      <img src="/jaime.png" alt="Jaime" width={300} />
     </main>
   );
 }
